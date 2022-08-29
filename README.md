@@ -1,1 +1,3 @@
 # GlobalAIHubProjects
+
+Global AI Hub'ın düzenlediği bootcamp kapsamında bize verilen projeleri tamamlamış bulunmaktayız. Buradaki projeler bootcampten öğrendiğimiz bilgilerle yapılmıştır...
